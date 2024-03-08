@@ -10,7 +10,7 @@ env:
   AZURE_APP_PLAN: actions-ttt-deployment
   AZURE_LOCATION: '"Canada Central"'
   ###############################################
-  ### Replace <username> with GitHub username ###
+  ### Replace <username> with GitHub username Test ###
   ###############################################
   AZURE_WEBAPP_NAME: ktam2-ttt-app
 
